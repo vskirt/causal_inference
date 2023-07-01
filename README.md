@@ -12,7 +12,7 @@
 
 
 ## **README**<br>
-This repository contains code (111266018_Valentin_Catteau_Term_Paper.R) for analyzing the effect of a minimum wage increase on the unemployment rate using regression analysis, data visualization and a Difference-in-Differences (DiD) approach. The code is written in R and utilizes various packages for data manipulation, cleaning, visualization, and regression analysis.
+This repository contains code (111266018_Valentin_Catteau_Term_Paper_2.R) for analyzing the effect of a minimum wage increase on the unemployment rate using regression analysis, data visualization and a Difference-in-Differences (DiD) approach. The code is written in R and utilizes various packages for data manipulation, cleaning, visualization, and regression analysis.
 
 ## **Packages Used**<br>
 The following R packages are used in this code:<br>
