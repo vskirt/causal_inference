@@ -6,6 +6,10 @@ English Name: Valentin CATTEAU<br>
 UID: 111266018<br>
 E-mail: catteauv.pro@gmail.com<br>
 
+**Abstract**<br>
+
+
+
 **README**<br>
 This repository contains code for analyzing the effect of a minimum wage increase on the unemployment rate using regression analysis, data visualization and a Difference-in-Differences (DiD) approach. The code is written in R and utilizes various packages for data manipulation, cleaning, visualization, and regression analysis.
 
