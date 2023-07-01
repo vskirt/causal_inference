@@ -1,5 +1,7 @@
 # NCCU / Causal Inference and Data Science in Economics research project<br>
 
+## Effect of Minimum Wage Increase on Unemployment Rate: Evidence from the USA
+
 **Chinese Name**: 萬瓏棠<br>
 **English Name**: Valentin CATTEAU<br>
 **UID**: 111266018<br>
