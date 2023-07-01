@@ -1,6 +1,6 @@
-## Effect of Minimum Wage Increase on Unemployment Rate: Evidence from the USA<br>
+# Effect of Minimum Wage Increase on Unemployment Rate: Evidence from the USA<br>
 
-# NCCU / Causal Inference and Data Science in Economics research project<br>
+## NCCU / Causal Inference and Data Science in Economics research project<br>
 
 **Chinese Name**: 萬瓏棠<br>
 **English Name**: Valentin CATTEAU<br>
