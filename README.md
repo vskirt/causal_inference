@@ -9,7 +9,7 @@
 
 ## **Abstract**<br>
 
-
+This paper examines the causal effect of an increase in minimum wage on the unemployment rate. The findings, based on a comprehensive analysis of US data over an extended period, reveal no strong evidence of a direct impact of increased minimum wage on unemployment. The lack of consensus in the existing literature underscores the need for further research on the topic.
 
 ## **README**<br>
 This repository contains the code (111266018_Valentin_Catteau_Term_Paper_2.R) for analyzing the effect of a minimum wage increase on the unemployment rate using regression analysis, data visualization and a Difference-in-Differences (DiD) approach. The code is written in R and utilizes various packages for data manipulation, cleaning, visualization, and regression analysis.
